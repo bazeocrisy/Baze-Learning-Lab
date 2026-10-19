@@ -75,3 +75,4 @@ footer{padding:25px 0}
 @media(max-width:850px){.contact-layout{grid-template-columns:1fr;gap:25px}}
 @media(max-width:650px){.contact-section{padding:35px 0}}
 @media(prefers-reduced-motion:reduce){.contact-link{transition:none}}
+@media(max-width:650px){.site-header nav[aria-label="Main navigation"]{display:none}} /* keep the desktop nav hidden on phones (the rule above overrode the earlier mobile hide) */
