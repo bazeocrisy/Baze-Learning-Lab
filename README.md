@@ -22,7 +22,7 @@ git push -u origin main
 
 ## Edit your apps
 
-Update the `apps` array at the top of `script.js`. Categories: `math`, `reading`, `language`. Each app has a link and action. Use a live app address when verified; otherwise link to the code repository as shown. Keep only apps you are comfortable presenting publicly.
+Update the `apps` array at the top of `script.js`. Categories: `math`, `reading`, `language`, `family`. An app that fits more than one can list them as an array, e.g. `category:["reading","math"]` — the first one sets the card's style, and the app appears under every listed filter. Each app has a link and action. Use a live app address when verified; otherwise link to the code repository as shown. Keep only apps you are comfortable presenting publicly.
 
 ## Customize the site
 
