@@ -1,4 +1,5 @@
 const apps=[
+{name:"Study Scoop",category:"reading",icon:"✎",description:"This week's 3rd grade practice in one place: spelling, vocabulary, multiplication, and homework help.",url:"https://bazeocrisy.github.io/Study-Scoop/#week",action:"Open this week"},
 {name:"Galaxy Math",category:"math",icon:"÷",description:"Foundational math with guided practice, explanations, and a thinking-first approach.",url:"https://bazeocrisy.github.io/Galaxy-Math/",action:"Open app"},
 {name:"Round It!",category:"math",icon:"≈",description:"Learn and practice rounding numbers to tens, hundreds, thousands, and more.",url:"https://bazeocrisy.github.io/Round-It/",action:"Open app"},
 {name:"Add It!",category:"math",icon:"+",description:"Build confidence in addition through step-by-step practice.",url:"https://bazeocrisy.github.io/Add-it-/",action:"Open app"},

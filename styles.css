@@ -33,6 +33,7 @@
 .app-card.theme-word-workshop{--card-bg:#f7efda;--card-edge:#eadfb8;--accent:#856026}
 .app-card.theme-mathbook{--card-bg:#e4f2f2;--card-edge:#c9e3e1;--accent:#287373}
 .app-card.theme-strong-family-press{--card-bg:#e6edf8;--card-edge:#cbd8ee;--accent:#2f4f86}
+.app-card.theme-study-scoop{--card-bg:#ffe9e0;--card-edge:#f6d1c2;--accent:#a2462a}
 .app-card:hover{box-shadow:0 14px 32px #193e3621}
 .app-top{display:flex;align-items:center;justify-content:space-between;gap:12px;position:relative}
 .app-icon,.app-icon.reading,.app-icon.language,.app-icon.family{background:#ffffffa8;color:var(--accent);width:64px;height:64px;font-size:29px;border:1px solid #ffffffa8}
