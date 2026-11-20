@@ -33,10 +33,12 @@
 .app-card.theme-word-workshop{--card-bg:#f7efda;--card-edge:#eadfb8;--accent:#856026}
 .app-card.theme-mathbook{--card-bg:#e4f2f2;--card-edge:#c9e3e1;--accent:#287373}
 .app-card.theme-strong-family-press{--card-bg:#e6edf8;--card-edge:#cbd8ee;--accent:#2f4f86}
+.app-card.theme-veteranpay{--card-bg:#e7ecf4;--card-edge:#c7d2e3;--accent:#12365a}
+.app-card.theme-veteranpay .app-icon{color:#b22234}
 .app-card.theme-study-scoop{--card-bg:#ffe9e0;--card-edge:#f6d1c2;--accent:#a2462a}
 .app-card:hover{box-shadow:0 14px 32px #193e3621}
 .app-top{display:flex;align-items:center;justify-content:space-between;gap:12px;position:relative}
-.app-icon,.app-icon.reading,.app-icon.language,.app-icon.family{background:#ffffffa8;color:var(--accent);width:64px;height:64px;font-size:29px;border:1px solid #ffffffa8}
+.app-icon,.app-icon.reading,.app-icon.language,.app-icon.family,.app-icon.veterans{background:#ffffffa8;color:var(--accent);width:64px;height:64px;font-size:29px;border:1px solid #ffffffa8}
 .app-category{margin:0;letter-spacing:.06em;color:var(--accent);font-size:.68rem;text-align:right}
 .app-card h3{position:relative;font-size:1.42rem;margin:17px 0 9px;color:#173631}
 .app-card p{position:relative;font-size:.88rem;line-height:1.5;color:#455c59;margin:0 0 20px}
